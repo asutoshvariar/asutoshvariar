@@ -5,3 +5,5 @@
 - Quality of life scripts
 - Fun projects
 - Half-baked ideas
+
+[![asutoshvariar's GitHub stats](https://github-readme-stats.vercel.app/api?username=asutoshvariar)](https://github.com/anuraghazra/github-readme-stats)
