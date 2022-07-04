@@ -6,4 +6,4 @@
 - Fun projects
 - Half-baked ideas
 
-[![asutoshvariar's GitHub stats](https://github-readme-stats.vercel.app/api?username=asutoshvariar)](https://github.com/anuraghazra/github-readme-stats)
+[![asutoshvariar's GitHub stats](https://github-readme-stats.vercel.app/api?username=asutoshvariar&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
